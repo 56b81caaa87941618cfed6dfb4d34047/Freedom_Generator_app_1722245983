@@ -16,7 +16,14 @@ Vue.component("simple_footer_component_1722245984", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Empowering individuals to reclaim their freedom through secure communication and access to vital information. Join the movement for liberty today.
+                        Empowering individuals to reclaim their freedom through secure communication and access to vital information. Join the movement for liberty today.
                     </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow">
+                        Join Now
+                    </button>
+                </div>
                 </div>
             </div>
         </footer> 
