@@ -36,5 +36,11 @@
         "content": "add a button",
         "timestamp": "29072024094114",
         "message_id": "guest29072024094114"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Certainly, I will add the button.",
+        "timestamp": "29072024094115",
+        "message_id": "guest29072024094114"
     }
 ]
