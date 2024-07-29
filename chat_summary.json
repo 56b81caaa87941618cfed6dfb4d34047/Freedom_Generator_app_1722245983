@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button to be placed within the app's interface?\", \"option1\": \"In the main navigation bar\", \"option2\": \"At the bottom of the screen as a floating action button\"}, {\"question 2\": \"What action do you want to trigger when this button is pressed?\", \"option1\": \"Open a new page or section within the app\", \"option2\": \"Perform a specific function (e.g., submit a form, refresh the page)\"}], \"input_token_count\": 255, \"output_token_count\": 113, \"time_taken\": \"0:00:12.689885\"}",
         "timestamp": "29072024094031",
         "message_id": "guest29072024094018"
+    },
+    {
+        "role": "user",
+        "content": "add a button",
+        "timestamp": "29072024094114",
+        "message_id": "guest29072024094114"
     }
 ]
