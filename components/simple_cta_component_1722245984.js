@@ -19,7 +19,10 @@ Vue.component("simple_cta_component_1722245984", {
                 </div>
                 <div id="new-button-container" class="flex mt-4">
                     <a id="new-button" href="#" class="flex-1 text-purple-700 bg-white hover:bg-gray-100 border border-purple-700 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-gray-800 dark:text-white dark:border-purple-500 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-purple-800">Learn More</a>
-            </div>
+                </div>
+                <div id="additional-button-container" class="flex mt-4">
+                    <a id="additional-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">Additional Button</a>
+                </div>
         </div>
     </section>
         `,
